@@ -1,6 +1,6 @@
 # WAV Files Processor
 
-## Compile All programs - Modes
+## Compile All Programs (All Modes)
 ```bash
 make
 ```
