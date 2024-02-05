@@ -114,7 +114,7 @@ make wavproc7
 ./wavproc1 < sounds/mysound.wav
 ```
 
-# After Execution
+## After Execution
 ```bash
 make clean
 ```
