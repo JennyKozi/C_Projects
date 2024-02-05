@@ -4,6 +4,7 @@
 ```bash
 make
 ```
+
 ## Compile One Program (Choose Mode)
 ```bash
 make wavproc1
@@ -27,7 +28,7 @@ make wavproc6
 make wavproc7
 ```
 
-## RUN
+## Run Programs
 ```bash
 ./wavproc1 < sounds/good.wav
 ```
@@ -111,4 +112,9 @@ make wavproc7
 ```
 ```bash
 ./wavproc1 < sounds/mysound.wav
+```
+
+# After Execution
+```bash
+make clean
 ```
