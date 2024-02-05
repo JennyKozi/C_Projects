@@ -29,6 +29,8 @@ make wavproc7
 ```
 
 ## Run Programs
+Run each program using different sound files:
+
 ```bash
 ./wavproc1 < sounds/good.wav
 ```
