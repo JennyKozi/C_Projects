@@ -8,6 +8,8 @@ The language supports commands such as while, if, else, break, continue,...
 
 Programms written in ipl can be found in the folder programs.
 
+The program kalmpr.ipl is this [project](https://github.com/JennyKozi/C_Projects/tree/main/K-Almost_Primes) written in ipl.
+
 Use the Makefile to compile, run and clean using the following commands:
 
 ## Compile Program
@@ -19,19 +21,31 @@ make
 Use the interpreter to execute different programs written in ipl language:
 
 ```bash
-./ipli kalmpr.ipl
+./ipli programs/kalmpr.ipl
 ```
 ```bash
-./ipli selectsort.ipl
+./ipli programs/selectsort.ipl
 ```
 ```bash
-./ipli nqueens.ipl
+./ipli programs/nqueens.ipl
 ```
 ```bash
-./ipli matrmult.ipl
+./ipli programs/matrmult.ipl
 ```
 ```bash
-./ipl numbers.ipl
+./ipl programs/numbers.ipl
+```
+```bash
+./ipl programs/countdivs.ipl
+```
+```bash
+./ipl programs/factorize.ipl
+```
+```bash
+./ipl programs/humble.ipl
+```
+```bash
+./ipl programs/primes.ipl
 ```
 
 ## Clean After Execution
